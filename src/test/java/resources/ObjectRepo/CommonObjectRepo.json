@@ -1,0 +1,15 @@
+{
+    "LoginData" : 
+        {
+          "username": "__TestAutomation_NSCMgrVgermany",
+          "password": "Password4",
+          "vendor": "VCCDE001"
+        },
+    "LoginXpath" : 
+        {
+          "username": "//input[@id='uctrlLogin_txtUsername']",
+          "password": "//input[@id='uctrlLogin_txtPassword']",
+          "vendor": "VCCDE001"
+        }    
+       
+    }
